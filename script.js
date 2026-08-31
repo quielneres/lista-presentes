@@ -25,6 +25,42 @@ const presentes = [
         descricao: "Par Farol Bloco Óptico Sealed Beam Ambos Lados - Compatível com Chevrolet Opala 1979",
         imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_611002-MLB82605839554_032025-F-par-farol-bloco-optico-sealed-beam-kombi-fusca-opala-chevett.webp",
         link: "https://www.mercadolivre.com.br/up/MLBU3057771840?matt_tool=38524122&pdp_filters=item_id%3AMLB3995745391&ua=7EmtHsarT7oQKvd5fhu1kmEIleE3eXP7sy3_3H_udyiiBGkZ#origin=share&sid=share&wid=MLB3995745391&action=copy"
+    },
+
+     {
+        id: 5,
+        descricao: "Braço Limpador + Palheta Par Direito - Compatível com Chevrolet Opala 1979",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_835812-MLB95043667079_102025-F-braco-limpador--palheta-opalacaravan-7388-par.webp",
+        link: "https://www.mercadolivre.com.br/up/MLBU1396958205?matt_tool=38524122&pdp_filters=item_id:MLB1012366683&ua=1wvNgiSXeru75OC4fKxdIo8OezbTCN7G-z7d9_h9oU4-lJzX#origin=share&sid=share&wid=MLB1012366683&action=copy"
+    },
+
+     {
+        id: 6,
+        descricao: "Capacete Gta Start Pisca Led Sinalizador Ciclismo Mtb Bike",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_953796-MLB112258982818_062026-F-capacete-gta-start-pisca-led-sinalizador-ciclismo-mtb-bike.webp",
+        link: "https://www.mercadolivre.com.br/up/MLBU1475755614?attributes=SIZE:MLBU1475755614&matt_tool=38524122&pdp_filters=item_id:MLB6214953512&ua=0K6ePdElDWDy8-OPOcXyFCeWZg-6KECvQVBJlZtv954VRMdB#origin=share&sid=share&wid=MLB6214953512&action=copy"
+    },
+
+     {
+        id: 7,
+        descricao: "Capacete Ciclismo Bike Mtb + Pisca + Óculos + Par De Luvas",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_720925-MLB112692145719_062026-F-capacete-ciclismo-bike-mtb-pisca-oculos-par-de-luvas.webp",
+        link: "https://produto.mercadolivre.com.br/MLB-4803580632?matt_tool=38524122&ua=lu_xDjzKA1OsQrbha04l3X4zkLQL5c_GLOu-y-x8ECIKm16z#origin=share&sid=share&action=copy"
+    }
+    ,
+
+     {
+        id: 8,
+        descricao: "Kit Ferramentas Bike Bicicleta Bolsa Extrator Bomba Ar K53",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_749372-MLB114504276899_072026-F.webp",
+        link: "https://www.mercadolivre.com.br/p/MLB2068681631?matt_tool=38524122&pdp_filters=item_id:MLB1125629240&ua=lqJWrsulDTwZ6C-l8GR5rL_eiGLsjvsa-8M43gG14FBzmA8X#origin=share&sid=share&wid=MLB1125629240&action=copy"
+    } ,
+
+     {
+        id: 9,
+        descricao: "Relógio De Pulso Casio Youth W-218H-1AV",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_902537-MLA116318322461_082026-F.webp",
+        link: "https://www.mercadolivre.com.br/p/MLB18115557?matt_tool=38524122&pdp_filters=item_id:MLB4142836978&ua=uwezBiGZmVCIKaCAd4-ppAs4E5SYUOJdtvMqSpn9BhAI4koM#origin=share&sid=share&wid=MLB4142836978&action=copy"
     }
 ];
 
